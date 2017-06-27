@@ -2,24 +2,17 @@
 1. Overview of the idea and technologies used
   - Evento is an app that allows you find events based on your current location, on specific location and or date range.
 
-2. Demo of Features
-
-3. Overview of code structure
+2. Overview of code structure
   - Schema
     . 6 tables (including 2 join tables: booking adn event_type_events)
 
-4. Group Work
-  - Main code machine: Phil
-  - Clown and Coding support and CSS: Simone
-  - Code support, Organisational structure (Trello wiz): Luke
-
-  - Everyone cooperated trough the visual and the website, so that it could be a learning experience
-  
+3. Group Work
+  - Everyone cooperated trough the visual and the website, so that it could be a learning experience. We did a lot of pair coding and briefings in which we would walk through additions so everyone was on the same page
 
 Languages
 . Rails
 . Ruby
-. JavaScript - handle the map data and the kendo widget (event date in create event)
+. JavaScript - to handle the map data and the kendo widget (event date in create event)
 . CSS - Used to override some Bootstrap defaults
 
 Libraries
